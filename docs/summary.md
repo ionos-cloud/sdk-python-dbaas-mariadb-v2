@@ -1,0 +1,45 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Changelog](CHANGELOG.md)
+
+## API
+
+* [BackupLocationsApi](api/BackupLocationsApi.md)
+* [BackupsApi](api/BackupsApi.md)
+* [ClustersApi](api/ClustersApi.md)
+* [VersionsApi](api/VersionsApi.md)
+
+## Models
+
+* [Backup](models/Backup.md)
+* [BackupCreate](models/BackupCreate.md)
+* [BackupEnsure](models/BackupEnsure.md)
+* [BackupLocation](models/BackupLocation.md)
+* [BackupLocationRead](models/BackupLocationRead.md)
+* [BackupLocationReadList](models/BackupLocationReadList.md)
+* [BackupRead](models/BackupRead.md)
+* [BackupReadList](models/BackupReadList.md)
+* [Cluster](models/Cluster.md)
+* [ClusterBackup](models/ClusterBackup.md)
+* [ClusterCreate](models/ClusterCreate.md)
+* [ClusterCreateProperties](models/ClusterCreateProperties.md)
+* [ClusterEnsure](models/ClusterEnsure.md)
+* [ClusterMetadata](models/ClusterMetadata.md)
+* [ClusterRead](models/ClusterRead.md)
+* [ClusterReadList](models/ClusterReadList.md)
+* [DayOfTheWeek](models/DayOfTheWeek.md)
+* [Error](models/Error.md)
+* [ErrorMessagesInner](models/ErrorMessagesInner.md)
+* [InstanceConfiguration](models/InstanceConfiguration.md)
+* [Links](models/Links.md)
+* [MaintenanceWindow](models/MaintenanceWindow.md)
+* [MariadbClusterConnection](models/MariadbClusterConnection.md)
+* [MariadbClusterStates](models/MariadbClusterStates.md)
+* [MariadbRestoreClusterFromBackup](models/MariadbRestoreClusterFromBackup.md)
+* [MariadbUser](models/MariadbUser.md)
+* [MariadbVersion](models/MariadbVersion.md)
+* [MariadbVersionRead](models/MariadbVersionRead.md)
+* [MariadbVersionReadList](models/MariadbVersionReadList.md)
+* [Metadata](models/Metadata.md)
+* [Pagination](models/Pagination.md)
